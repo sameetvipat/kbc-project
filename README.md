@@ -8,7 +8,7 @@ If you get stuck somewhere, 3 Lifelines are available for your help, which can b
 2 Safezones are there in the game at Rs. 10,000 and Rs. 3,20,000 . If a person incorrectly answers the question, the person drops down and wins the money which was secured at the safezone. At any point, the player can choose to quit the game, and walk out with the
 money he has won until then.
 
-####Screenshots
+#Screenshots
 
 Home Screen
 ![](/ScreenShots/"Home Screen.png"?raw=true)
@@ -25,16 +25,7 @@ Instructions
 Winning Screen
 ![](/ScreenShots/"Winning Screen.png"?raw=true)
 
-
-### DOCKER 
-```bash
-docker build -t java-app .
-```
-
-```bash
-docker run -e DISPLAY=host.docker.internal:0 --rm java-app
-```
-
-
-# [java](https://www.java.com/en/download/)
+Nescessary Softwares:
+# [Java](https://www.java.com/en/download/)
 # [JDK](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi)
+# [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
