@@ -11,19 +11,19 @@ money he has won until then.
 #Screenshots
 
 Home Screen
-![](/ScreenShots/Home Screen.png?raw=true)
+![](/ScreenShots/HomeScreen.png?raw=true)
 
 Main Screen
-![](/ScreenShots/Main Screen.png?raw=true)
+![](/ScreenShots/MainScreen.png?raw=true)
 
 About Game
-![](/ScreenShots/About Game.png?raw=true)
+![](/ScreenShots/AboutGame.png?raw=true)
 
 Instructions
 ![](/ScreenShots/Instructions.png?raw=true)
 
 Winning Screen
-![](/ScreenShots/Winning Screen.png?raw=true)
+![](/ScreenShots/WinningScreen.png?raw=true)
 
 Nescessary Softwares:
 # [Java](https://www.java.com/en/download/)
