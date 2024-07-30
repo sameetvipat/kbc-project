@@ -25,7 +25,7 @@ Instructions
 Winning Screen
 ![](/ScreenShots/WinningScreen.png?raw=true)
 
-Nescessary Softwares:
+# Nescessary Softwares:<br>
 [Java](https://www.java.com/en/download/) <br>
 [JDK](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi)<br>
 [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)<br>
