@@ -25,16 +25,7 @@ Instructions
 Winning Screen
 ![](/ScreenShots/"Winning Screen.png"?raw=true)
 
-
-### DOCKER 
-```bash
-docker build -t java-app .
-```
-
-```bash
-docker run -e DISPLAY=host.docker.internal:0 --rm java-app
-```
-
-
+Nescessary Softwares:
 # [java](https://www.java.com/en/download/)
 # [JDK](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi)
+# [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
