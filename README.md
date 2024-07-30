@@ -26,6 +26,6 @@ Winning Screen
 ![](/ScreenShots/WinningScreen.png?raw=true)
 
 Nescessary Softwares:
-# [Java](https://www.java.com/en/download/)
-# [JDK](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi)
-# [VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+[Java](https://www.java.com/en/download/)
+[JDK](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi)
+[VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
