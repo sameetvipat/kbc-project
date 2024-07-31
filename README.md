@@ -8,6 +8,12 @@ If you get stuck somewhere, 3 Lifelines are available for your help, which can b
 2 Safezones are there in the game at Rs. 10,000 and Rs. 3,20,000 . If a person incorrectly answers the question, the person drops down and wins the money which was secured at the safezone. At any point, the player can choose to quit the game, and walk out with the
 money he has won until then.
 
+# Nescessary Softwares:<br>
+[Java](https://www.java.com/en/download/) <br>
+[JDK](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi)<br>
+[VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)<br>
+
+
 # Screenshots
 
 Home Screen
@@ -25,7 +31,3 @@ Instructions
 Winning Screen
 ![](/Screenshots/WinningScreen.png?raw=true)
 
-# Nescessary Softwares:<br>
-[Java](https://www.java.com/en/download/) <br>
-[JDK](https://download.oracle.com/java/22/latest/jdk-22_windows-x64_bin.msi)<br>
-[VS Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)<br>
